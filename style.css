@@ -1,3 +1,6 @@
-*{
-    margin: 10px;
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 1px;
+    background-color: solid white
 }
