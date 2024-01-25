@@ -4,3 +4,15 @@ body {
     padding: 1px;
     background-color: solid white
 }
+#skill_list{
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+}
+h4, h2{
+    color: rgb(30, 98, 186);    
+}
+#company_name, #current_position{
+    font-size: 15px;
+}
